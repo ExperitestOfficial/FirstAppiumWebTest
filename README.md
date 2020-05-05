@@ -38,5 +38,5 @@ Basic Test case creation using Java/TestNG framework using Appium Library/Appium
 
 5. To know how execute the test,
       * Open the cloned project in IntelliJ (Menu > Open )
-      * Please follow the section "Executing the Test" in the blog.
+      * Please follow the section "Execute the Run Configuration" in the blog.
 
